@@ -1,0 +1,21 @@
+1532185746211	geckodriver	INFO	geckodriver 0.19.0
+1532185746227	geckodriver	INFO	Listening on 127.0.0.1:11260
+1532185749363	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SURESH~1\\AppData\\Local\\Temp\\rust_mozprofile.i5AoFc1A8W86"
+1532185752386	Marionette	INFO	Listening on port 11268
+1532185752616	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\sureshkumarkadi\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://adjiva.com/qa-test/, line 123: TypeError: $(...).bootstrapValidator is not a function
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2B000B,name=PCompositorWidget::Msg_UnobserveVsync) Channel error: cannot send/recv
+
+G	[6442450945] Received DOM event DOMContentLoaded for http://adjiva.com/qa-test/
+1532154930740	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://adjiva.com/qa-test/
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+0%99t%20connect%20to%20the%20server%20at%20bit.ly.
+in.cc, line 346
+[Parent 3788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14004, Chrome_ChildThread] WAR[Child 16256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16256, Chrome_ChildThr1532150835781	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1558692517792	geckodriver	INFO	geckodriver 0.19.0
+1558692517792	geckodriver	INFO	Listening on 127.0.0.1:56027

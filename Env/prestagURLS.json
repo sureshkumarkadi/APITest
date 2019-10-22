@@ -1,0 +1,5 @@
+{
+"stagurl": "http://eteder.staging.com/tenderservices/api",
+"prestagurl": "http://bg-etender-ser:8080/tenderservices/api",
+"url": "prestagurl"
+}

@@ -1,0 +1,10 @@
+{
+
+"tab1":"//a[@title='Women']",
+"tab2":"//a[@title='Dresses']",
+"login_button":"//a[@class='login']",
+"submit_button":"//button[@id='SubmitCreate']",
+"validation_message":"//li[contains(text(),'Invalid email address.')]",
+"enter_email":"//input[@name='email_create']",
+"personal_info":"//h3[contains(text(),'Your personal information')]"
+}

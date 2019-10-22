@@ -1,0 +1,6 @@
+{
+"browser": "chrome",
+"stagurl": "http://automationpractice.com-staging",
+"prestagurl": "http://automationpractice.com",
+"url": "prestagurl"
+}

@@ -1,0 +1,6 @@
+{
+
+"tab1":"//a[@title='Women']",
+"tab2":"//a[@title='Dresses']",
+"tab3":"//a[@title='T-shirts']"
+}
